@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://mlt5419.github.io</id>
+    <id>https://mlt5419.github.io/MLTYUC/</id>
     <title>山田岗的图书馆</title>
-    <updated>2023-01-14T05:27:52.867Z</updated>
+    <updated>2023-01-14T05:30:49.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://mlt5419.github.io"/>
-    <link rel="self" href="https://mlt5419.github.io/atom.xml"/>
+    <link rel="alternate" href="https://mlt5419.github.io/MLTYUC/"/>
+    <link rel="self" href="https://mlt5419.github.io/MLTYUC/atom.xml"/>
     <subtitle>这里是銘洛天的设定集
 好吧，还只是个测试版本</subtitle>
-    <logo>https://mlt5419.github.io/images/avatar.png</logo>
-    <icon>https://mlt5419.github.io/favicon.ico</icon>
+    <logo>https://mlt5419.github.io/MLTYUC/images/avatar.png</logo>
+    <icon>https://mlt5419.github.io/MLTYUC/favicon.ico</icon>
     <rights>All rights reserved 2023, 山田岗的图书馆</rights>
     <entry>
         <title type="html"><![CDATA[罗素]]></title>
-        <id>https://mlt5419.github.io/post/LuoSu/</id>
-        <link href="https://mlt5419.github.io/post/LuoSu/">
+        <id>https://mlt5419.github.io/MLTYUC/post/LuoSu/</id>
+        <link href="https://mlt5419.github.io/MLTYUC/post/LuoSu/">
         </link>
         <updated>2023-01-14T02:38:56.000Z</updated>
         <summary type="html"><![CDATA[<p><font color=#8A8A8A><em>空气中好像有什么诡异的气味</font><br>
